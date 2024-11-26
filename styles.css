@@ -1,0 +1,21 @@
+img {
+    float: right;
+    border: 2px solid;
+    padding: 5px;
+
+  }
+
+h2{
+    text-align: center;
+}
+
+p{
+    text-align: justify;
+    display: inline-flex;
+}
+
+text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
